@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/main_group">
+        <item
+            android:id="@+id/soft"
+            android:title="@string/soft_menu_title"
+            android:icon="@drawable/ic_soft"/>
+        <item
+            android:id="@+id/medium"
+            android:title="@string/medium_menu_title"
+            android:icon="@drawable/ic_medium"/>
+        <item
+            android:id="@+id/hard"
+            android:title="@string/hard_menu_title"
+            android:icon="@drawable/ic_hard"/>
+    </group>
+</menu>
